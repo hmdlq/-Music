@@ -36,4 +36,10 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/ZThon_Music"),
         ],
     ]
+    InlineKeyboardButton(
+                text="• قناة المطور •", url=f"https://t.me/{SUPPORT_CHANNEL}"
+            )
+        ],
+      
+     ]
     return buttons
