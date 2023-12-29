@@ -22,6 +22,11 @@
         "value": "",
         "required": true
       },
+      "START_IMG_URL": {
+        "description": "pic your bot",
+        "value": "https://telegra.ph/file/df8c9227ef4511aed9dd0.jpg",
+        "required": true
+      }, 
       "STRING_SESSION": {
         "description": "كـــود تيـــرمكـــس - كـود جلسـة الحسـاب المساعـد لـ الميـوزك بايـروجـرام v2 مـن البـوت〔 @T66bot 〕.. ",
         "value": "",
